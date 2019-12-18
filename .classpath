@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/18rj2.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/poi-ooxml-schemas-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/Qrcode_A.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/rj.jar"/>
+	<classpathentry kind="lib" path="E:/java基础/软件/poi/zy.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
